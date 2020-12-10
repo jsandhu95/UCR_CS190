@@ -1,0 +1,1 @@
+This is a demonstration of how to access a github repository through the terminal
