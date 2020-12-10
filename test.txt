@@ -1,4 +1,10 @@
 This is a test to demonstrate how to use git from the terminal
 
+<<<<<<< HEAD
 This is an edit to text.txt
 
+=======
+test
+
+test2
+>>>>>>> main
